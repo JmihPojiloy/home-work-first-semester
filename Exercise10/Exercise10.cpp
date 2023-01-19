@@ -3,6 +3,9 @@
 
 using namespace std;
 
+/*
+	Переставить символы во введенной строке в обратном порядке и вывести результат.
+*/
 int main()
 {
 	setlocale(LC_ALL, "Russian");
